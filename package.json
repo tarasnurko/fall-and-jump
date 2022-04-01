@@ -1,0 +1,16 @@
+{
+  "name": "fall-and-jump",
+  "version": "1.0.0",
+  "description": "HTML5 Canvas and JavaScript game you can jump and earn points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "canvas",
+    "js"
+  ],
+  "author": "Taras Nurko",
+  "license": "ISC"
+}
