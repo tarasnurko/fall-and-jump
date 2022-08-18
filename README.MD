@@ -10,18 +10,6 @@
 git clone https://github.com/tarasnurko/fall-and-jump.git
 ```
 
-```bash
-npm install
-```
-
-installs dependencies
-
-```bash
-npm start
-```
-
-will run a development server with the component's demo app at http://localhost:3000
-
 ## Screenshots
 
 ![This is the start of the game](/screenshots/screenshot-1.png)
